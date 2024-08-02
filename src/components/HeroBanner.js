@@ -1,7 +1,7 @@
 import React from 'react';
 import { Box, Stack, Typography } from '@mui/material';
 
-import HeroBannerImage from '../assets/images/gym-girl-3.jpg';
+import HeroBannerImage from '../assets/images/gym-girl.jpg';
 import './RotatingHexagon.css'
 
 const HeroBanner = () => (
